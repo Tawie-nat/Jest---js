@@ -30,7 +30,8 @@ out/
 
 ### VS Code ###
 .vscode/
-.node_moduls/
+node_moduls/
+coverage/
 
 ### Package Files ###
 *.war
